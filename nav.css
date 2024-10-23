@@ -1,0 +1,24 @@
+body{
+    background-color: #fff;
+}
+.mainNav{
+    background-color: #ddd;
+    width: 0;
+    height: 100vh;
+    transition-duration: 0.2s;
+}
+button{
+    margin: 1rem;
+    border-radius: 0.2rem;
+}
+.navBar{
+    text-align: center;
+    padding: 1rem;
+}
+.li{
+    list-style-type: none;
+    margin: 1rem;
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight:500;
+}
